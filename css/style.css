@@ -4,6 +4,7 @@
 */
 /* Due to error in MDL : https://github.com/google/material-design-lite/issues/5281
 */
+
 .mdl-ripple {
   background: #000;
   opacity: 0.001;
@@ -25,7 +26,7 @@
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.25;
 }
-img {
+.img {
   float: right;
 }
 
