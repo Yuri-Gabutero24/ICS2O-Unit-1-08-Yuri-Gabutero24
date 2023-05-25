@@ -6,7 +6,7 @@
 
 [![Deploy Pages](https://github.com/MTHS-ICS2O-2-2022/ICS2O-Unit-1-08-Yuri-Gabutero24/workflows/Deploy%20Pages/badge.svg)](https://github.com/Yuri-Gabutero24/ICS2O-Unit-1-08-Yuri-Gabutero24/actions)
 
-This site can be found at: [https://MTHS-ICS2O-2-2022.github.io/ICS2O-Unit-1-08-Yuri-Gabutero24](https://Yuri-Gabutero24.github.io/ICS2O-Unit-1-08-Yuri-Gabutero24)
+This site can be found at: [https:///Yuri-Gabutero24.github.io/ICS2O-Unit-1-08-Yuri-Gabutero24](https://Yuri-Gabutero24.github.io/ICS2O-Unit-1-08-Yuri-Gabutero24)
 
 ---
 
